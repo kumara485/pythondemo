@@ -11,3 +11,6 @@ def mul(a,b):
 
 def div(a,b):
 	pass
+
+def sayhello():
+	pass
